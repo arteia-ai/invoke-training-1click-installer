@@ -59,3 +59,6 @@ Este instalador prepara todo lo necesario para entrenar modelos personalizados c
 ## 📷 ¿Quieres ver cómo funciona?
 
 🧠 *Pronto publicaré un video explicando el proceso paso a paso en el canal de ArteIA.*
+
+🔧 Proyecto creado por [ArteIA](https://www.youtube.com/@arteia)  
+🎨 Herramientas, flujos de trabajo y tutoriales sobre arte con IA
