@@ -61,3 +61,6 @@ This installer sets up everything you need to train custom models like **LoRA**,
 ## 📷 Want to see it in action?
 
 🧠 *A video tutorial showing the step-by-step installation will be available soon on the ArteIA channel.*
+
+🔧 Project by [ArteIA](https://www.youtube.com/@arteia)  
+🎨 Tools, workflows, and tutorials about AI-generated art
