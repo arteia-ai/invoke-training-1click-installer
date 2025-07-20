@@ -2,6 +2,8 @@
 
 # 🚀 Invoke Training – Instalador 1 Clic
 
+🔄 [View english version / Ver en inglés](./README.en.md)
+
 Instala `invoke-training` de forma sencilla con solo ejecutar un script. Compatible con **Windows**, **Mac** y **Linux**.
 
 Este instalador prepara todo lo necesario para entrenar modelos personalizados como **LoRA**, **Textual Inversion** o **DreamBooth**, directamente desde la terminal o la interfaz gráfica de `invoke-training`.
@@ -9,7 +11,6 @@ Este instalador prepara todo lo necesario para entrenar modelos personalizados c
 > ⚠️ **El instalador de Windows incluye Python y Git si no están presentes.**  
 > En Mac y Linux se asume que ya los tienes instalados.
 > 
-> 🔄 [View english version / Ver en inglés](./README.en.md)
 
 ---
 
