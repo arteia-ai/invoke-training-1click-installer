@@ -10,7 +10,7 @@ Install `invoke-training` easily by running a single script. Compatible with **W
 This installer sets up everything you need to train custom models like **LoRA**, **Textual Inversion**, or **DreamBooth**, either from the terminal or using the graphical interface provided by `invoke-training`.
 
 > ⚠️ **The Windows installer includes Python and Git if they are not already installed.**  
-> On Mac and Linux, you are expected to have them installed beforehand.
+> On Mac and Linux, The script checks if Git and Python 3.10 or higher is installed.
 
 
 ---
