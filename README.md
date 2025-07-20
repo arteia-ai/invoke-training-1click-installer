@@ -7,7 +7,7 @@ Este instalador prepara todo lo necesario para entrenar modelos personalizados c
 > ⚠️ **El instalador de Windows incluye Python y Git si no están presentes.**  
 > En Mac y Linux se asume que ya los tienes instalados.
 > 
-> 🔄 [View english version / Ver en inglés /](./README.en.md)
+> 🔄 [View english version / Ver en inglés](./README.en.md)
 
 ---
 
