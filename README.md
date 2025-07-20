@@ -1,3 +1,5 @@
+<img src="https://github.com/arteia-ai/arteia-invokeai-colab/raw/main/assets/banner_github.jpg" alt="ArteIA - Genera imágenes con IA" style="width:100%;" />
+
 # 🚀 Invoke Training – Instalador 1 Clic
 
 Instala `invoke-training` de forma sencilla con solo ejecutar un script. Compatible con **Windows**, **Mac** y **Linux**.
