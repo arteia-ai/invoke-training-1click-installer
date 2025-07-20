@@ -1,7 +1,7 @@
 <img src="https://github.com/arteia-ai/arteia-invokeai-colab/raw/main/assets/banner_github.jpg" alt="ArteIA - Genera imágenes con IA" style="width:100%;" />
 
 
-# 🚀 Invoke Training – 1-Click Installer
+# 🚀 Invoke Training – 1 Click Installer
 
 🔄 [Ver en español / View Spanish version](./README.md)
 
