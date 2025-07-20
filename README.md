@@ -9,8 +9,7 @@ Instala `invoke-training` de forma sencilla con solo ejecutar un script. Compati
 Este instalador prepara todo lo necesario para entrenar modelos personalizados como **LoRA**, **Textual Inversion** o **DreamBooth**, directamente desde la terminal o la interfaz gráfica de `invoke-training`.
 
 > ⚠️ **El instalador de Windows incluye Python y Git si no están presentes.**  
-> En Mac y Linux se asume que ya los tienes instalados.
-> 
+> En Mac y Linux se comprueba que ya los tienes instalados.
 
 ---
 
