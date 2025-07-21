@@ -50,6 +50,23 @@ Este instalador prepara todo lo necesario para entrenar modelos personalizados c
 
 > 🧠 *Ambos instaladores permiten volver a ejecutar el entorno fácilmente más adelante con la opción 2.*
 
+---
+
+## 🧪 Cómo ejecutarlo
+
+### 🪟 Windows  
+Haz doble clic en el archivo `install_windows.bat` y sigue las instrucciones que aparecen en pantalla. ¡Así de fácil!
+
+### 🍏 Mac  
+Haz clic con el botón derecho en `install_mac_linux.sh`, selecciona **"Abrir con Terminal"** y sigue las instrucciones.
+
+### 🐧 Linux  
+Abre una terminal en la carpeta del archivo y escribe:  
+```bash
+bash install_mac_linux.sh
+```
+
+---
 
 ## 📘 Más información
 
