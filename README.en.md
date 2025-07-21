@@ -5,6 +5,8 @@
 
 🔄 [Ver en español / View Spanish version](./README.md)
 
+⚙️ This script simplifies the installation of [invoke-training](https://github.com/invoke-ai/invoke-training)
+
 Install `invoke-training` easily by running a single script. Compatible with **Windows**, **Mac**, and **Linux**.
 
 This installer sets up everything you need to train custom models like **LoRA**, **Textual Inversion**, or **DreamBooth**, either from the terminal or using the graphical interface provided by `invoke-training`.
