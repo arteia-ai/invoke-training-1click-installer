@@ -54,6 +54,22 @@ This installer sets up everything you need to train custom models like **LoRA**,
 
 ---
 
+## 🧪 How to Run It
+
+### 🪟 Windows  
+Double-click the `install_windows.bat` file and follow the on-screen instructions. That’s it!
+
+### 🍏 Mac  
+Right-click on `install_mac_linux.sh`, select **"Open with Terminal"**, and follow the instructions.
+
+### 🐧 Linux  
+Open a terminal in the script’s folder and type:  
+```bash
+bash install_mac_linux.sh
+```
+
+---
+
 ## 📘 More Info
 
 **Official invoke-training documentation:**  
